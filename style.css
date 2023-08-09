@@ -135,7 +135,7 @@ a{
 
 
 .bottom{
-    width: 100%;
+    width: 100vw;
     height: 496px;
     display: flex;
 
