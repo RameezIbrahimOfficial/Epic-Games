@@ -135,7 +135,7 @@ a{
 
 .bottom{
     width: 100%;
-    height: calc(100vh-155);
+    height: 496px;
     display: flex;
 
 }
