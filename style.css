@@ -99,7 +99,6 @@ a{
 }
 
 .top{
-    /* width: 100%; */
     height: 100px;
     display: flex;
     justify-content: start;
@@ -135,8 +134,8 @@ a{
 
 
 .bottom{
-    width: 100vw;
-    height: 496px;
+    width: 100%;
+    height: calc(100vh-155);
     display: flex;
 
 }
@@ -184,6 +183,6 @@ a{
 }
 
 .active-home{
-    background-color: #252525;
     border-radius: 15px;
+    background-color: #252525;
 }
